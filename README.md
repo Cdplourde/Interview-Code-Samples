@@ -29,11 +29,11 @@ One of my earlier projects I made during my learning. A Pokémon battle simulato
 
 [Link to website](https://cdplourde.github.io/Poke-BattleSim/)
 
-[Link to code](https://github.com/Cdplourde/Poke-BattleSim)
+[Link to project](https://github.com/Cdplourde/Poke-BattleSim)
 
 # Rock Paper Scissors 
 My first attempt at creating a realtime application using Firebase. This is a simple game of rock, paper, scissors, but completely playable online by 2 players. 
 
 [Link to website](https://cdplourde.github.io/RPS-Multiplayer/)
 
-[Link to code](https://github.com/Cdplourde/RPS-Multiplayer)
+[Link to project](https://github.com/Cdplourde/RPS-Multiplayer)
